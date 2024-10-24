@@ -1,28 +1,24 @@
 
-# Application 1: Rule Engine using AST by Y Teresha
-![image](https://github.com/user-attachments/assets/dfb4461a-21f7-4560-b5f1-bc23d946ace4)
+# Rule Engine Application by Y Durga Prasad 
 
-Preview: 
-
-## Overview
+## Application Overview 
 
 This application functions as a rule engine that assesses user eligibility based on various attributes, including age, department, salary, and experience. It employs an Abstract Syntax Tree (AST) for representing and managing conditional rules, facilitating the dynamic creation, combination, and evaluation of rules.
 
 ## Features
 
 - **Rule Creation:** Users can define rules using a string format, which is then transformed into an AST.
-
-  ![image](https://github.com/user-attachments/assets/b24780d5-5041-4707-9b31-2cbf573fcf03)
+![Screenshot 2024-10-23 180143](https://github.com/user-attachments/assets/f6e841a6-1b63-425e-bc64-2b69dc166650)
 
 
 - **Rule Combination:** Allows the merging of multiple rules into a singular AST to enable more intricate evaluations.
 
-![image](https://github.com/user-attachments/assets/f80b0a7b-0201-4d0f-9c7c-eb4acd42ad06)
+![Screenshot 2024-10-23 180237](https://github.com/user-attachments/assets/5a53e34a-336e-47dc-b634-9b416b79cbac)
 
 
 - **Rule Evaluation:** Assesses whether the provided data aligns with the criteria set by the AST.
 
-![image](https://github.com/user-attachments/assets/d154eb35-eb66-459e-9452-2dcc286eb121)
+![Screenshot 2024-10-24 172215](https://github.com/user-attachments/assets/f12b450b-74ec-426f-837d-c67ebd5fcfc4)
 
 
 - **Tree Visualization:** When defining or combining rules, a tree representation will be displayed for better understanding.
